@@ -12,6 +12,7 @@
 */
 
 export function hasClass(elem, elemClass) {return elem.classList.contains(elemClass)}
+/*eeeeeeeeeeeeeeeeeee*/
 
 export function addClass(elem, elemClass) {return elem.classList.add(elemClass)}
 
